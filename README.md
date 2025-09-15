@@ -1,6 +1,6 @@
 # FIFA Stats Comparison App 
 A repository for the final project for CIS450, adapted to be public.
-My main responsibilities were in developing the frontend pages and login state system.
+My main responsibilities were in developing the frontend pages and login state system. See project outline for details.
 
 ## Contibutors
 Armaan Uppal, Ali Krema, Julia Kafozoff, Alejandro Resendiz
