@@ -1,11 +1,9 @@
 # FIFA Stats Comparison App 
 A repository for the final project for CIS450, adapted to be public.
+My main responsibilities were in developing the frontend pages and login state system.
 
 ## Contibutors
-Armaan Uppal
-Ali Krema
-Julia Kafozoff
-Alejandro Resendiz
+Armaan Uppal, Ali Krema, Julia Kafozoff, Alejandro Resendiz
 
 ## Description
 This application serves as an interface for FIFA players that allows them to find different statistics and information about players, nations, and clubs in FIFA22 and FIFA17. Some of the data is being processed to cover only FIFA22, since it is the currently active game, as in top players, most expensive players, top players by attribute, etc. Other features, however, which represent the majority of this application, use the intersection of the two datasets to produce interesting facts about the last 5 years of FIFA: differences in wage, top important attributes, average overall rating of national teams in 2017 vs 2022, etc. The information in the two datasets, FIFA22 and FIFA17, allow for a space of creativity in queries and, thus, services provided to the user.
